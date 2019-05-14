@@ -1,0 +1,13 @@
+body{
+    background: #373a47;
+    color: #eee;
+}
+a{
+    color: #eee;
+}
+a:hover{
+    color: #eee;
+}
+.btn{
+    cursor: pointer;
+}

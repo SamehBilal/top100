@@ -1,0 +1,100 @@
+.skin-4 { background: #434d55; color: #eee; }
+.skin-4 a { color: #2fa0ec; }
+.skin-4 a:hover, .skin-4 a:focus { color: #eee; }
+#fixed{
+	position: fixed;
+	bottom: 0;
+}
+a{
+	text-decoration: none;
+}
+.codrops-header {
+	padding: 1em 0 3em;
+	letter-spacing: -1px;
+	text-align: center;
+}
+
+.codrops-header h1 {
+	font-weight: 800;
+	font-size: 4.5em;
+	line-height: 1;
+}
+
+.codrops-header h1 span {
+	display: block;
+	font-size: 50%;
+	font-weight: 200;
+	padding-top: 0.325em;
+	opacity: 0.6;
+}
+
+.baraja-demo {
+	width: 200px;
+	margin: 5px;
+	color: #aaa;
+	float: left;
+}
+
+
+
+.baraja-demo h4 {
+	color: #666;
+	font-size: 14px;
+	padding: 8px 10px 5px;
+	margin: 5px 3px 5px;
+	border-bottom: 1px solid #666;
+	text-align: center;
+}
+
+
+
+.baraja-demo ul.baraja-container li {
+	border-radius: 10px;
+	padding: 5px;
+
+
+}
+
+.baraja-demo li img {
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	height: 75%;
+	border-radius: 10px 10px 0 0;
+}
+ul.baraja-container {
+	width: 185px;
+	height: 290px;
+padding: 0;
+	list-style-type: none;
+}
+
+ul.baraja-container li {
+	width: 100%;
+	height: 100%;
+
+	background: #eeeeee;
+
+
+}
+
+.no-js ul.baraja-container {
+
+	text-align: center;
+}
+
+.no-js ul.baraja-container li {
+
+
+}
+
+.rate-10{
+padding-right: 1px;!important;
+}
+.rank{
+	float:left;
+	font-weight: bold;
+	margin:6px;
+	color: #434d55;
+
+}
